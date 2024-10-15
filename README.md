@@ -1,21 +1,18 @@
 # 👋 Hi, I'm Andrew Pyanzin!
 
-I'm a Senior Product Manager with a passion for building **data-driven** and **user-centric** solutions. With over 5 years of experience in both **B2C** and **B2B** markets, I specialize in leveraging **data insights** to fuel growth and create seamless user experiences.
+I'm a Senior Product Manager passionate about creating **data-driven** and **user-focused** products that deliver real impact. With over 5 years of experience, I’ve worked across both **B2C** and **B2B** markets, developing and optimising products by transforming data into actionable growth strategies.
 
-### 🚀 What I do:
-- **Data-driven growth**: Increase **user engagement** and **retention** through actionable data-driven insights and strategies
-- **Cross-Functional Leadership**: Managing diverse teams of developers, analysts, and designers to create high-performing products
-- **Product Optimisation**: Increase **ARPU** and **conversion rate** by developing efficient, scalable products
-- **Technology-centric solutions**: Integrating **sider services** and implementing advanced technologies such as **Flutter** to optimise applications and reduce costs.
-- **Analytical Problem Solving**: Turn complex data into clear action plans using tools such as **PostgreSQL**, **Pandas** and **SQL**.
-- **Agile Approach**: Implement **SCRUM** methodologies to optimise product development and achieve goals efficiently
+### 🚀 What I Do:
+I specialize in **product development** that drives **user acquisition, retention**, and **engagement**. Leading cross-functional teams of developers, analysts, and designers, I ensure seamless execution of product roadmaps, prioritizing both **user experience** and business outcomes. Whether integrating third-party services or introducing new features, I always focus on delivering **scalable, high-performing solutions**.
+
 
 ### 🔧 Tech I Love:
-- **PostgreSQL** & **Pandas** for data analysis
-- **Deep Inderstanding Swift, Kotlin** for building fast and cost-effective mobile apps
-- **SQL** & **Python** to drive product insights and build smarter solutions
+My tech stack is rooted in tools that drive results. I use:
+- **PostgreSQL** & **Pandas** for deep data analysis and decision-making.
+- **Python** for smarter solutions and actionable insights.
+- **Flutter**, **Swift**, and **Kotlin** for building fast, efficient mobile apps that scale.
 
 ### ✨ Fun Fact:
-I optimize apps with no turbulence—just like a smooth flight ✈️
+I once managed a cross-functional team of 11—and only broke 2 coffee machines in the process! ☕️
 
-Let's build something great together! Feel free to check out my projects or get in touch.
+Feel free to check out my projects or get in touch—let’s build something great together!
