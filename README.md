@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Pyanzin!
+# 👋 Hi, I'm Andrew!
 
 I'm a Senior Product Manager passionate about creating **data-driven** and **user-focused** products that deliver real impact. With over 5 years of experience, I’ve worked across both **B2C** and **B2B** markets, developing and optimising products by transforming data into actionable growth strategies.
 
