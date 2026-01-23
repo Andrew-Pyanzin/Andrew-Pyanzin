@@ -6,6 +6,5 @@ My principle is simple: less noise and less race, more practical value for users
 
 ---
 
-If you have a great project we can build it together!
-https://pyanzin.com/
+If you have a great project we can build it together → contacts https://pyanzin.com/
 
