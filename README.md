@@ -1,10 +1,26 @@
-I'm Andrew. I am a product builder who turns complex data and routine work into clear products, starting from the real job a user wants to solve today.
+## Hey, I'm Andrew
 
-For me, a product is not a list of features: it is a main function plus user expectations at the moment they need to solve a problem, so I always define the result the user wants to get. I do not chase more resources; I stretch? what we already have and I use Python, SQL, A/B tests for analysis. I build fast prototypes and agentic workflows, so we can test value and unit economics early. When automation or ML makes sense, I use it to reduce user effort, increase the value people feel, and grow willingness to pay in a natural way.
+Senior Product Manager who turns technical complexity into simple user experiences.
 
-My principle is simple: less noise and less race, more practical value for users and for the business.
+I don't chase features — I find the job a user needs done and build the shortest path to value. Python, SQL, A/B tests, and fast prototypes are my tools. When ML or automation makes sense, I use it to reduce effort and grow willingness to pay.
 
----
+### What I do
 
-If you have a great project we can build it together → contacts https://pyanzin.com/
+- **Product growth at scale** — 5M+ MAU, 124% faster time-to-market, 23% ARPU lift at [S7 Airlines](https://www.s7.ru)
+- **Data-driven decisions** — 100+ A/B tests, ML personalization, unit economics from day one
+- **Prototype-first** — I build to test, not to spec. Python, Cursor, agentic workflows
+- **Full ownership** — from user research and JTBD to delivery and retention metrics
 
+### Open-source & experiments
+
+| Repo | What |
+|------|------|
+| [ab-testing](https://github.com/Andrew-Pyanzin/ab-testing) | A/B test analysis toolkit — statistics, pandas, experiment workflows |
+| [prioritisation-model](https://github.com/Andrew-Pyanzin/prioritisation-model) | RICE scoring & prioritisation checklist for PMs |
+| [system-design](https://github.com/Andrew-Pyanzin/system-design) | System design notes & architecture patterns |
+| [cursor-rules](https://github.com/Andrew-Pyanzin/cursor-rules) | My Cursor IDE configuration for AI-assisted development |
+| [sunrise-sunset-live-activity](https://github.com/Andrew-Pyanzin/sunrise-sunset-live-activity) | iOS Live Activity demo — animated sunrise/sunset widget in Swift |
+
+### Connect
+
+[![Website](https://img.shields.io/badge/pyanzin.com-000?style=flat&logo=safari&logoColor=white)](https://pyanzin.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-pyanzin)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/andrey_pyanzin)  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andrey@pyanzin.com)
