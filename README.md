@@ -11,6 +11,21 @@ I don't chase features — I find the job a user needs done and build the shorte
 - **Prototype-first** — I build to test, not to spec. Python, Cursor, agentic workflows
 - **Full ownership** — from user research and JTBD to delivery and retention metrics
 
+### GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Pyanzin&show_icons=true&theme=default&hide_border=true&count_private=false&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Pyanzin&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Pyanzin&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andrew-Pyanzin&theme=flat&no-frame=true&margin-w=10&column=6" />
+</p>
+
 ### Open-source & experiments
 
 | Repo | What |
