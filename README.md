@@ -11,21 +11,6 @@ I don't chase features — I find the job a user needs done and build the shorte
 - **Prototype-first** — I build to test, not to spec. Python, Cursor, agentic workflows
 - **Full ownership** — from user research and JTBD to delivery and retention metrics
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Pyanzin&show_icons=true&theme=default&hide_border=true&count_private=false&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Pyanzin&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Pyanzin&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andrew-Pyanzin&theme=flat&no-frame=true&margin-w=10&column=6" />
-</p>
-
 ### Open-source & experiments
 
 | Repo | What |
@@ -34,7 +19,6 @@ I don't chase features — I find the job a user needs done and build the shorte
 | [prioritisation-model](https://github.com/Andrew-Pyanzin/prioritisation-model) | RICE scoring & prioritisation checklist for PMs |
 | [system-design](https://github.com/Andrew-Pyanzin/system-design) | System design notes & architecture patterns |
 | [cursor-rules](https://github.com/Andrew-Pyanzin/cursor-rules) | My Cursor IDE configuration for AI-assisted development |
-| [sunrise-sunset-live-activity](https://github.com/Andrew-Pyanzin/sunrise-sunset-live-activity) | iOS Live Activity demo — animated sunrise/sunset widget in Swift |
 
 ### Connect
 
